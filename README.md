@@ -3,15 +3,18 @@ A script to facilitate downloading videos saved as .m3u8 in general.
 
 ## Finding the .m3u8 file
 [Please extract the URL to your .m3u8 file first:](findm3u8.mp4)
+1. Open the developer tools
+2. Go to the network tab and reload the page
+3. locate an entry containing an m3u8 link
+4.copy the link
 
 In pictures:
-
 ![](find1.png)
 ![](find2.png)
-(Pictures were captured in Firefox)
+(Pictures taken in Firefox)
 
 ## Using the tool
-The tool does not need to be installed, only downloaded (m3u8script.java). All you might need to do is install Java.
+The tool does not need to be installed, only downloaded (m3u8script.java). All you might need to do is install the Java Development Kit, or JDK.
 You can then run it:
 ![java m3u8script.java](cli.jpg)
 
