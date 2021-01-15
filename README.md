@@ -14,7 +14,7 @@ In pictures:
 (Pictures taken in Firefox)
 </br></br>
 ![](brave.png)
-(Pictures taken in Brave (Chromium Browser)
+(Pictures taken in Brave (Chromium Browser))
 
 ## Using the tool
 The tool does not need to be installed, only downloaded (m3u8script.java). All you might need to do is install the Java Development Kit, or JDK.
