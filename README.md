@@ -8,9 +8,10 @@ In pictures:
 
 ![](find1.png)
 ![](find2.png)
+(Pictures were captured in Firefox)
 
 ## Using the tool
-The tool does not need to be installed. All you might need to do is install Java.
+The tool does not need to be installed, only downloaded (m3u8script.java). All you might need to do is install Java.
 You can then run it:
 ![java m3u8script.java](cli.jpg)
 
