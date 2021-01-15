@@ -5,6 +5,10 @@ A script to facilitate downloading videos saved as .m3u8 in general.
 Please extract the URL to your .m3u8 file first:
 ![find m3u8](findm3u8.gif)
 
+In pictures:
+![](1.png)
+![](2.png)
+
 ## Using the tool
 The tool does not need to be installed. All you need is to have Java installed.
 You can then run it:
