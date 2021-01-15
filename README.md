@@ -6,7 +6,7 @@ A script to facilitate downloading videos saved as .m3u8 in general.
 1. Open the developer tools
 2. Go to the network tab and reload the page
 3. locate an entry containing an m3u8 link
-4.copy the link
+4. copy the link
 
 In pictures:
 ![](find1.png)
