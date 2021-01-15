@@ -3,7 +3,7 @@ A script to facilitate downloading videos saved as .m3u8 in general.
 
 ## Finding the .m3u8 file
 Please extract the URL to your .m3u8 file first:
-![find m3u8](findm3u8.gif)
+<center> ![find m3u8](findm3u8.gif) <center>
 
 In pictures:
 ![](1.png)
