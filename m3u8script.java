@@ -129,6 +129,6 @@ public class m3u8script {
                 "The following commands are available:" + System.lineSeparator() + System.lineSeparator() +
                 "Use -multi yourfile.txt to specify the absolute path to an input file containing a list of URLs" + System.lineSeparator() +
                 "Or use -single urlto.m3u8 in combination with -output /path/to/output/folderorfile" + System.lineSeparator() + System.lineSeparator() +
-                "Please go to github.com/eneller/dbthueringen-script for additional help");
+                "Please go to https://github.com/eneller/m3u8script for additional help");
     }
 }
