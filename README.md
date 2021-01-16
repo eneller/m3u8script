@@ -17,7 +17,7 @@ In pictures:
 (Pictures taken in Brave (Chromium Browser))
 
 ## Using the tool
-The tool does not need to be installed, only downloaded (m3u8script.java). All you might need to do is install the Java Development Kit, or JDK.
+The tool does not need to be installed, only downloaded (m3u8script.java). All you might need to do is [install the Java Development Kit, or JDK.](https://www.oracle.com/de/java/technologies/javase-jdk15-downloads.html)
 You can then run it:
 ![java m3u8script.java](cli.jpg)
 
