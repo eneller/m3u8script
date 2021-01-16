@@ -41,6 +41,9 @@ public class m3u8script {
             }
         }
         if (m == false) {
+            if (output.matches(".*\\.m3u8$") == false) {
+                output = output + "/";
+            }
             parse(url, output, prefix);
         } else {
             String[] pathArr = output.split("/");
